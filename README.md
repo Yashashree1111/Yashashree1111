@@ -1,70 +1,13 @@
-<!-- Header Animation -->
 <div align="center">
   <!-- Animated Welcome Text -->
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋+I'm+Yashashree;Passionate+Data+Scientist;AI+%26+ML+Enthusiast;Python+Developer&center=true&width=450&height=50&color=2D9CDB">
 
-  <!-- Analytics Woman SVG Banner -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100">
-    <defs>
-      <!-- Gradient for background -->
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#e6f3ff;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#f0f7ff;stop-opacity:1" />
-      </linearGradient>
-      
-      <!-- Gradient for data flow -->
-      <linearGradient id="dataGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#2D9CDB;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#56CCF2;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    
-    <!-- Background -->
-    <rect width="800" height="100" fill="url(#grad1)"/>
-    
-    <!-- Woman figure -->
-    <g transform="translate(100, 20)">
-      <!-- Head -->
-      <circle cx="25" cy="20" r="12" fill="#2D9CDB"/>
-      <!-- Body -->
-      <path d="M15,35 Q25,30 35,35 L35,60 L15,60 Z" fill="#2D9CDB"/>
-      <!-- Arms -->
-      <path d="M15,35 Q0,40 5,50" stroke="#2D9CDB" stroke-width="4" fill="none"/>
-      <path d="M35,35 Q50,40 45,50" stroke="#2D9CDB" stroke-width="4" fill="none"/>
-    </g>
-    
-    <!-- Floating Data Elements -->
-    <g transform="translate(200, 0)">
-      <!-- Data Flow Lines -->
-      <path d="M0,50 Q200,20 400,50" stroke="url(#dataGrad)" stroke-width="2" fill="none">
-        <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="3s" repeatCount="indefinite"/>
-      </path>
-      <path d="M0,70 Q200,100 400,70" stroke="url(#dataGrad)" stroke-width="2" fill="none">
-        <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-      </path>
-      
-      <!-- Data Points -->
-      <g>
-        <circle cx="50" cy="40" r="3" fill="#2D9CDB">
-          <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="150" cy="30" r="3" fill="#2D9CDB">
-          <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="250" cy="50" r="3" fill="#2D9CDB">
-          <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="350" cy="40" r="3" fill="#2D9CDB">
-          <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1.5s" repeatCount="indefinite"/>
-        </circle>
-      </g>
-    </g>
-  </svg>
-
+  <!-- Alternative Data Science Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=100&section=header&text=Data%20Science%20%26%20AI&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=2D9CDB&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Yashashree1111&color=2D9CDB&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
-
 <!-- Introduction Section -->
 ## 👩‍💻 About Me
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding girl">
