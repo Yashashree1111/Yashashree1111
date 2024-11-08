@@ -10,8 +10,8 @@ Updated GitHub Profile Header
     <!-- Background -->
     <rect width="800" height="60" fill="#f8f9fa"/>
     
-    <!-- Neural Network Nodes -->
-    <circle cx="650" cy="30" r="4" fill="#2D9CDB">
+
+  <circle cx="650" cy="30" r="4" fill="#2D9CDB">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
     </circle>
     <circle cx="680" cy="20" r="4" fill="#2D9CDB">
@@ -24,8 +24,8 @@ Updated GitHub Profile Header
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.9s" repeatCount="indefinite"/>
     </circle>
     
-    <!-- Connection Lines -->
-    <line x1="650" y1="30" x2="680" y2="20" stroke="#2D9CDB" stroke-width="1">
+  <!-- Connection Lines -->
+  <line x1="650" y1="30" x2="680" y2="20" stroke="#2D9CDB" stroke-width="1">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
     </line>
     <line x1="650" y1="30" x2="680" y2="40" stroke="#2D9CDB" stroke-width="1">
@@ -39,11 +39,11 @@ Updated GitHub Profile Header
     </line>
     
     <!-- Woman silhouette -->
-    <path d="M100,45 C100,25 120,25 120,35 C120,15 140,15 140,35 L140,45" fill="#2D9CDB"/>
+  <path d="M100,45 C100,25 120,25 120,35 C120,15 140,15 140,35 L140,45" fill="#2D9CDB"/>
     <circle cx="120" cy="20" r="10" fill="#2D9CDB"/>
     
     <!-- Floating Data Points -->
-    <g>
+  <g>
       <circle cx="160" cy="25" r="3" fill="#2D9CDB">
         <animate attributeName="cy" values="25;20;25" dur="3s" repeatCount="indefinite"/>
       </circle>
@@ -64,7 +64,7 @@ Updated GitHub Profile Header
     <rect width="800" height="60" fill="#f8f9fa"/>
     
     <!-- Neural Network Nodes -->
-    <circle cx="650" cy="30" r="4" fill="#2D9CDB">
+  <circle cx="650" cy="30" r="4" fill="#2D9CDB">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
     </circle>
     <circle cx="680" cy="20" r="4" fill="#2D9CDB">
@@ -78,7 +78,7 @@ Updated GitHub Profile Header
     </circle>
     
     <!-- Connection Lines -->
-    <line x1="650" y1="30" x2="680" y2="20" stroke="#2D9CDB" stroke-width="1">
+  <line x1="650" y1="30" x2="680" y2="20" stroke="#2D9CDB" stroke-width="1">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
     </line>
     <line x1="650" y1="30" x2="680" y2="40" stroke="#2D9CDB" stroke-width="1">
@@ -92,11 +92,11 @@ Updated GitHub Profile Header
     </line>
     
     <!-- Woman silhouette -->
-    <path d="M100,45 C100,25 120,25 120,35 C120,15 140,15 140,35 L140,45" fill="#2D9CDB"/>
+  <path d="M100,45 C100,25 120,25 120,35 C120,15 140,15 140,35 L140,45" fill="#2D9CDB"/>
     <circle cx="120" cy="20" r="10" fill="#2D9CDB"/>
     
     <!-- Floating Data Points -->
-    <g>
+  <g>
       <circle cx="160" cy="25" r="3" fill="#2D9CDB">
         <animate attributeName="cy" values="25;20;25" dur="3s" repeatCount="indefinite"/>
       </circle>
