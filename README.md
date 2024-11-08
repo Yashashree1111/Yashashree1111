@@ -1,232 +1,167 @@
-<!-- Header Animation & Image -->
-Updated GitHub Profile Header
-
-<!-- Header Animation & Image -->
+<!-- Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yashashree+Fulsundar;Data+Science+Professional;AI+%26+ML+Enthusiast&center=true&width=380&height=50&color=2D9CDB">
+  <!-- Animated Welcome Text -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋+I'm+Yashashree;Passionate+Data+Scientist;AI+%26+ML+Enthusiast;Python+Developer&center=true&width=450&height=50&color=2D9CDB">
 
-  <!-- Data Scientist Banner -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60">
+  <!-- Analytics Woman SVG Banner -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100">
+    <defs>
+      <!-- Gradient for background -->
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#e6f3ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#f0f7ff;stop-opacity:1" />
+      </linearGradient>
+      
+      <!-- Gradient for data flow -->
+      <linearGradient id="dataGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#2D9CDB;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#56CCF2;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
     <!-- Background -->
-    <rect width="800" height="60" fill="#f8f9fa"/>
+    <rect width="800" height="100" fill="url(#grad1)"/>
     
-
-  <circle cx="650" cy="30" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-    <circle cx="680" cy="20" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="680" cy="40" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="710" cy="30" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-    </circle>
+    <!-- Woman figure -->
+    <g transform="translate(100, 20)">
+      <!-- Head -->
+      <circle cx="25" cy="20" r="12" fill="#2D9CDB"/>
+      <!-- Body -->
+      <path d="M15,35 Q25,30 35,35 L35,60 L15,60 Z" fill="#2D9CDB"/>
+      <!-- Arms -->
+      <path d="M15,35 Q0,40 5,50" stroke="#2D9CDB" stroke-width="4" fill="none"/>
+      <path d="M35,35 Q50,40 45,50" stroke="#2D9CDB" stroke-width="4" fill="none"/>
+    </g>
     
-  <!-- Connection Lines -->
-  <line x1="650" y1="30" x2="680" y2="20" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </line>
-    <line x1="650" y1="30" x2="680" y2="40" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-    </line>
-    <line x1="680" y1="20" x2="710" y2="30" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    </line>
-    <line x1="680" y1="40" x2="710" y2="30" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-    </line>
-    
-    <!-- Woman silhouette -->
-  <path d="M100,45 C100,25 120,25 120,35 C120,15 140,15 140,35 L140,45" fill="#2D9CDB"/>
-    <circle cx="120" cy="20" r="10" fill="#2D9CDB"/>
-    
-    <!-- Floating Data Points -->
-  <g>
-      <circle cx="160" cy="25" r="3" fill="#2D9CDB">
-        <animate attributeName="cy" values="25;20;25" dur="3s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="180" cy="35" r="3" fill="#2D9CDB">
-        <animate attributeName="cy" values="35;30;35" dur="3s" begin="0.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="200" cy="30" r="3" fill="#2D9CDB">
-        <animate attributeName="cy" values="30;25;30" dur="3s" begin="1s" repeatCount="indefinite"/>
-      </circle>
+    <!-- Floating Data Elements -->
+    <g transform="translate(200, 0)">
+      <!-- Data Flow Lines -->
+      <path d="M0,50 Q200,20 400,50" stroke="url(#dataGrad)" stroke-width="2" fill="none">
+        <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0,70 Q200,100 400,70" stroke="url(#dataGrad)" stroke-width="2" fill="none">
+        <animate attributeName="stroke-dasharray" from="0,1000" to="1000,0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      </path>
+      
+      <!-- Data Points -->
+      <g>
+        <circle cx="50" cy="40" r="3" fill="#2D9CDB">
+          <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="150" cy="30" r="3" fill="#2D9CDB">
+          <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="250" cy="50" r="3" fill="#2D9CDB">
+          <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="350" cy="40" r="3" fill="#2D9CDB">
+          <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+        </circle>
+      </g>
     </g>
   </svg>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiOTMzYTE4YjZkYTUyYjc2ZGY5ZDRhZGRmZjEzM2QzZGE3YzM2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px">
-  
-  <!-- Data Scientist Banner (repeated at bottom) -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60">
-    <!-- Background -->
-    <rect width="800" height="60" fill="#f8f9fa"/>
-    
-    <!-- Neural Network Nodes -->
-  <circle cx="650" cy="30" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="680" cy="20" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="680" cy="40" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="710" cy="30" r="4" fill="#2D9CDB">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-    </circle>
-    
-    <!-- Connection Lines -->
-  <line x1="650" y1="30" x2="680" y2="20" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </line>
-    <line x1="650" y1="30" x2="680" y2="40" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-    </line>
-    <line x1="680" y1="20" x2="710" y2="30" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    </line>
-    <line x1="680" y1="40" x2="710" y2="30" stroke="#2D9CDB" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-    </line>
-    
-    <!-- Woman silhouette -->
-  <path d="M100,45 C100,25 120,25 120,35 C120,15 140,15 140,35 L140,45" fill="#2D9CDB"/>
-    <circle cx="120" cy="20" r="10" fill="#2D9CDB"/>
-    
-    <!-- Floating Data Points -->
-  <g>
-      <circle cx="160" cy="25" r="3" fill="#2D9CDB">
-        <animate attributeName="cy" values="25;20;25" dur="3s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="180" cy="35" r="3" fill="#2D9CDB">
-        <animate attributeName="cy" values="35;30;35" dur="3s" begin="0.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="200" cy="30" r="3" fill="#2D9CDB">
-        <animate attributeName="cy" values="30;25;30" dur="3s" begin="1s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-  </svg>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=2D9CDB&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
-<!-- Profile Views Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"> 
-</p>
+<!-- Introduction Section -->
+## 👩‍💻 About Me
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding girl">
 
-<!-- About Me Section -->
-## 💫 About Me
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
-
-- 🌱 Currently working on **LLMs and GenAI**
-- 💬 Ask me about **AI, ML, Data Science, and Python**
+- 🎓 BTech in Data Science | G H Raisoni College
+- 🔭 Currently working on **Large Language Models & GenAI**
+- 🌱 Learning **MLOps & Deep Learning**
+- 👯 Looking to collaborate on **AI/ML Projects**
+- 💡 Always eager to learn new technologies
 - 📫 Reach me at **yashfulsunder@gmail.com**
+- ⚡ Fun fact: I debug with coffee ☕
 
-<!-- Tech Stack Section with Animations -->
-## 🚀 Tech Stack
+<!-- Technology Stack -->
+## 🚀 Tech Arsenal
 <div align="center">
   
-  <!-- Programming Languages -->
-  <a href="#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
+  ### Languages & Frameworks
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  
+  ### Tools & Platforms
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
 
-  <!-- Frameworks & Tools -->
-  <a href="#" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-  <!-- AI/ML Tools -->
-  <a href="#" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<!-- Featured Projects -->
+## 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/YourUsername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://github.com/YourUsername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight" />
   </a>
 </div>
 
-<!-- GitHub Stats with Animations -->
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<!-- Projects Section with Custom Cards -->
-## 🛠️ Featured Projects
-<div align="center">
-  <a href="https://github.com/YourUsername/DocAssistBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=DocAssistBot&theme=radical" />
-  </a>
-  <a href="https://github.com/YourUsername/CADCare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=CADCare&theme=radical" />
-  </a>
-</div>
-
-<!-- Education Section with Timeline -->
-## 🎓 Education
-<div align="center">
-  
+<!-- Education Timeline -->
+## 🎓 Education Journey
 ```mermaid
-graph TD
-    A[BTech in Data Science] --> B[G H Raisoni College]
-    B --> C[2021 - 2024]
-    C --> D[CGPA: 9.1]
-    
-    E[Diploma in Computer Engineering] --> F[JSPM'S Bhivrabai Sawant Polytechnic]
-    F --> G[2019 - 2021]
-    G --> H[89%]
+timeline
+    title My Academic Timeline
+    2021 : Began BTech in Data Science
+         : G H Raisoni College
+         : CGPA - 9.1
+    2019 : Diploma in Computer Engineering
+         : JSPM'S Bhivrabai Sawant Polytechnic
+         : Percentage - 89%
 ```
 
-</div>
+<!-- Achievements -->
+## 🏆 Achievements & Certifications
+- 📝 Published research paper in Springer
+- 🥇 Winner of Code Vista 3.0 Hackathon
+- 📜 AWS Certified Machine Learning Specialist
+- 🌟 Python Bootcamp Certification
+- 🎯 Top performer in college technical symposium
 
-<!-- Achievements Section with Custom Badges -->
-## 🏆 Achievements
-<div align="center">
-  <img src="https://img.shields.io/badge/Springer-Publication-blue?style=for-the-badge&logo=springer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Vista_3.0-Winner-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python_BootCamp-Completed-success?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<!-- Connect Section with Animated Badges -->
-## 🤝 Connect With Me
+<!-- Connect Section -->
+## 🤝 Let's Connect!
 <div align="center">
   <a href="mailto:yashfulsunder@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/YourLinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YourUsername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YourTwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
-<!-- Activity Graph -->
+<!-- Contribution Graph -->
 ## 📈 Contribution Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=radical" alt="Contribution Graph">
-</div>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
 
-<!-- Snake Animation -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
