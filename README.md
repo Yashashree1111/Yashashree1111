@@ -1,12 +1,10 @@
-Modified GitHub Profile README<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-</div>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0C96FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yashashree;AI+%7C+ML+Engineer;Data+Scientist" />
-</h1>
+<!-- Header Animation & Image -->
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yashashree+Fulsundar;Data+Science+Professional;AI+%26+ML+Enthusiast&center=true&width=380&height=50">
+
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 </div>
+
 👨‍💻 About Me
 
 🔭 I'm currently working on LLMs and GenAI
