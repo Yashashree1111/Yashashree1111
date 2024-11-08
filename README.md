@@ -1,51 +1,130 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Yashashree Fulsundar</h1>
+<!-- Header Animation & Image -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Data+Science+Professional;AI+%26+ML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
-</div>
-🚀 About Me
-I'm a Data Scientist and AI enthusiast on a mission to decode the mysteries of artificial intelligence and uncover the hidden stories within data. 🤖💡 Armed with a B.Tech in Data Science and a knack for turning complex datasets into strategic assets, I'm your go-to person for all things AI and machine learning. When I'm not busy crafting code or diving into neural networks, you'll find me embracing the chaos of data with a dash of humor and a cup of coffee. I'm the Sherlock Holmes of data, always on the hunt for insights and patterns that others might miss🚀✨
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yashashree+Fulsundar;Data+Science+Professional;AI+%26+ML+Enthusiast&center=true&width=380&height=50">
 
-🛠️ Tech Stack
-Programming & Development
-pythonCopy{
-    'Languages': ['Python', 'HTML', 'CSS'],
-    'Frameworks': ['Django', 'FastAPI'],
-    'MLOps & Cloud': ['AWS SageMaker', 'CodeBuild', 'CodeCommit', 'Docker'],
-    'Version Control': ['Git']
-}
-
-AI & Data Science
-pythonCopy{
-    'Machine Learning': ['Scikit-Learn', 'TensorFlow', 'PyTorch'],
-    'NLP': ['NLTK', 'Spacy', 'CoreNLP', 'DialogFlow', 'Langchain'],
-    'Computer Vision': ['OpenCV'],
-    'Gen AI': ['LangChain', 'HuggingFace'],
-    'Data Visualization': ['PowerBI', 'Matplotlib', 'Seaborn']
-}
-
-Databases
-pythonCopy{
-    'Databases': ['SQL', 'FAISS'],
-    'Tools': ['PowerBI', 'Microsoft Excel']
-}
-
-📈 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 </div>
 
-📫 Connect With Me
+<!-- Profile Views Counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"> 
+</p>
+
+<!-- About Me Section -->
+## 💫 About Me
 <div align="center">
-    <a href="mailto:yashfulsunder@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/YourLinkedIn">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="tel:+919881493575">
-        <img src="https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=phone&logoColor=white" />
-    </a>
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+
+- 🔭 Data Science Intern at **Nector International Pvt Ltd**
+- 🌱 Currently working on **LLMs and GenAI**
+- 💬 Ask me about **AI, ML, Data Science, and Python**
+- 📫 Reach me at **yashfulsunder@gmail.com**
+- 📱 Contact: **+91 9881493575**
+- 🏠 Location: **Pune, Maharashtra**
+
+<!-- Tech Stack Section with Animations -->
+## 🚀 Tech Stack
+<div align="center">
+  
+  <!-- Programming Languages -->
+  <a href="#" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  </a>
+
+  <!-- Frameworks & Tools -->
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- AI/ML Tools -->
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+</div>
+
+<!-- GitHub Stats with Animations -->
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<!-- Projects Section with Custom Cards -->
+## 🛠️ Featured Projects
+<div align="center">
+  <a href="https://github.com/YourUsername/DocAssistBot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=DocAssistBot&theme=radical" />
+  </a>
+  <a href="https://github.com/YourUsername/CADCare">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=CADCare&theme=radical" />
+  </a>
+</div>
+
+<!-- Education Section with Timeline -->
+## 🎓 Education
+<div align="center">
+  
+```mermaid
+graph TD
+    A[BTech in Data Science] --> B[G H Raisoni College]
+    B --> C[2021 - 2024]
+    C --> D[CGPA: 9.1]
+    
+    E[Diploma in Computer Engineering] --> F[JSPM'S Bhivrabai Sawant Polytechnic]
+    F --> G[2019 - 2021]
+    G --> H[89%]
+```
+
+</div>
+
+<!-- Achievements Section with Custom Badges -->
+## 🏆 Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/Springer-Publication-blue?style=for-the-badge&logo=springer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Vista_3.0-Winner-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python_BootCamp-Completed-success?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<!-- Connect Section with Animated Badges -->
+## 🤝 Connect With Me
+<div align="center">
+  <a href="mailto:yashfulsunder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YourUsername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=radical" alt="Contribution Graph">
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
