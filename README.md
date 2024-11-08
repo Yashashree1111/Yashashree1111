@@ -1,15 +1,15 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://yashashreefulsundar.io)
-
 <div align="center">
-  <img align="right" alt="Data Science" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
-
-# 👋 Hi, I'm Yashashree Fulsundar
-
-> Data Science Professional | ML Engineer | AI Enthusiast
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0C96FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yashashree;AI+%7C+ML+Engineer;Data+Scientist" />
+</h1>
+<div align="center">
+  <img align="right" alt="AI Neural Network" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashreefulsundar&label=Profile%20views&color=0e75b6&style=flat" alt="yashashreefulsundar" /> </p>
-
 ## 🚀 About Me
 Data Science professional passionate about transforming data into actionable insights. Currently working on innovative projects in AI, ML, and NLP. Published researcher and continuous learner.
 
