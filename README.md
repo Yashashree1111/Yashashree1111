@@ -13,7 +13,7 @@ Updated GitHub Profile Header
 
   <circle cx="650" cy="30" r="4" fill="#2D9CDB">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </circle>
+  </circle>
     <circle cx="680" cy="20" r="4" fill="#2D9CDB">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.3s" repeatCount="indefinite"/>
     </circle>
