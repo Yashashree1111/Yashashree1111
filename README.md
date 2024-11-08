@@ -13,14 +13,13 @@
 ## 🚀 About Me
 Data Science professional passionate about transforming data into actionable insights. Currently working on innovative projects in AI, ML, and NLP. Published researcher and continuous learner.
 
-## 🔭 Current Work
-- Data Science Intern at Nector International Pvt Ltd
-- Building intelligent chatbots using LangChain and RAG techniques
-- Creating data visualization dashboards
-- Developing e-commerce solutions with Dialogflow
+##🔭 Current Work
 
+- 🌱 Currently working on **LLMs and GenAI**
+- 💬 Ask me about **AI, ML, Data Science, and Python**
+- 📫 Reach me at **yashfulsunder@gmail.com**
 <!-- Tech Stack Section with Animations -->
-## 🚀 Tech Stack
+##🚀 Tech Stack
 <div align="center">
   
   <!-- Programming Languages -->
@@ -55,7 +54,7 @@ Data Science professional passionate about transforming data into actionable ins
 </div>
 
 <!-- GitHub Stats with Animations -->
-## 📊 GitHub Stats
+##📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
   
@@ -63,35 +62,27 @@ Data Science professional passionate about transforming data into actionable ins
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-## 🏆 Featured Projects
 
-### 🤖 DocAssistBot
-- LLM-based ChatBot for PDF interaction
-- Built with Streamlit, PyPDF2, OpenAI Embeddings
-- Implements FAISS for efficient vector storage
 
-### ❤️ CADCare
-- IoT and AI-Based CAD Detection System
-- 95% accurate CNN model for ECG analysis
-- Real-time heart rate monitoring
-
-### 🎬 Movie Recommender
-- ML-powered movie recommendation engine
-- IMDB 5000 dataset
-- Advanced similarity matching
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashashreefulsundar&theme=dark" alt="yashashreefulsundar" />
-</p>
-
-## 📫 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/yashashreefulsundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashashreefulsundar" height="30" width="40" /></a>
-</p>
-
+<!-- Connect Section with Animated Badges -->
+## 🤝 Connect With Me
+<div align="center">
+  <a href="mailto:yashfulsunder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YourUsername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 ---
 <div align="center">
 ⭐️ From [YashashreeFulsundar](https://github.com/yashashreefulsundar)
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
