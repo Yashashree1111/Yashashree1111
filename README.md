@@ -9,12 +9,6 @@
 <div align="center">
   <img align="right" alt="AI Neural Network" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashreefulsundar&label=Profile%20views&color=0e75b6&style=flat" alt="yashashreefulsundar" /> </p>
-
-<h1 align="center">Hi 👋, I'm Yashashree Fulsundar</h1>
-<h3 align="center">Data Science professional passionate about transforming data into actionable insights. Currently working on innovative projects in AI, ML, and NLP. Published researcher and continuous learner.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashree1111&label=Profile%20views&color=0e75b6&style=flat" alt="yashashree1111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashashree1111" alt="yashashree1111" /></a> </p>
 
