@@ -1,8 +1,13 @@
 <!-- Header Animation & Image -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yashashree+Fulsundar;Data+Science+Professional;AI+%26+ML+Enthusiast&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Yashashree+Fulsundar;Data+Science+Professional;AI+%26+ML+Enthusiast&center=true&width=380&height=50&color=2D9CDB">
 
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+  <!-- New AI-themed banner -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiOTMzYTE4YjZkYTUyYjc2ZGY5ZDRhZGRmZjEzM2QzZGE3YzM2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px">
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <!-- Profile Views Counter -->
